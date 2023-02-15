@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(175, 113, 20);
+    background: #c7e6cd;
+    background-image: url("./back.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.details{
+    text-align: center;
+    background-color: antiquewhite;
+    background: #fafaf8;
+    border-radius: 29px;
+    width: 600px;
+    height: 350px;
+    margin: 200px;
+    margin-top: 200px;
+    margin-left: 450px;
+    margin-bottom: 4px;
+}
